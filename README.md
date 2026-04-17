@@ -9,9 +9,9 @@
 | Dataset ID | `701970` |
 | Location | Fort Collins |
 | Category | Restaurants |
-| Full dataset size | 495 records |
-| Free sample size | 47 records (9.49%) |
-| Last export | 2026-04-07T10:22:24.728094+00:00 |
+| Full dataset size | 479 records |
+| Free sample size | 47 records (9.81%) |
+| Last export | 2026-04-14T10:15:50.751859+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-fort-collins-colorado-us-sample-701970/releases/download/sample-latest/beamstation_701970_restaurants-us-co_SAMPLE_DIST.csv) |
 
 ## What is in this sample

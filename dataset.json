@@ -6,17 +6,17 @@
   "config_category": "census",
   "config_description": "Full restaurant census covering Fort Collins, Colorado with a population of over 169k. Covers the local dining market filtered by the Restaurants category group with ratings, review trends, competitive rankings, and market positioning data. Refreshed weekly.",
   "config_name": "All Restaurants in Fort Collins, Colorado, US",
-  "export_job_id": "1fa38c40-7832-499b-8303-40126454d163",
+  "export_job_id": "fd32b481-4472-4146-812f-51470a7e5ae3",
   "github_org": "Beamstation-Datasets",
   "id_short": 701970,
   "location_name": "Fort Collins",
   "location_type": "city",
   "repo_name": "all-restaurants-in-fort-collins-colorado-us-sample-701970",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/701970/beamstation_701970_restaurants-us-co_SAMPLE_DIST.csv",
-  "sample_pct": 9.49,
+  "sample_pct": 9.81,
   "sample_records": 47,
   "sample_sha256": "82d5bf279ddf0e00dd863db7d4dbecee10cbda5a3d6936141567b04fae3332a3",
   "sample_size_bytes": 189890,
-  "total_records": 495,
-  "updated_at": "2026-04-07T10:22:24.728094+00:00"
+  "total_records": 479,
+  "updated_at": "2026-04-14T10:15:50.751859+00:00"
 }

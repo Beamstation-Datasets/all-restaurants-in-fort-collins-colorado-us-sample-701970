@@ -1,12 +1,12 @@
 {
-  "export_job_id": "fd32b481-4472-4146-812f-51470a7e5ae3",
+  "export_job_id": "67e49d00-0173-4b1f-986c-deb49c6401a9",
   "id_short": 701970,
-  "published_at": "2026-04-17T19:56:02Z",
+  "published_at": "2026-04-21T19:43:14Z",
   "repo_name": "all-restaurants-in-fort-collins-colorado-us-sample-701970",
   "sample_asset_name": "beamstation_701970_restaurants-us-co_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/701970/beamstation_701970_restaurants-us-co_SAMPLE_DIST.csv",
-  "sample_records": 47,
-  "sample_sha256": "82d5bf279ddf0e00dd863db7d4dbecee10cbda5a3d6936141567b04fae3332a3",
-  "sample_size_bytes": 189890,
-  "total_records": 479
+  "sample_records": 26,
+  "sample_sha256": "c430a2c4da7344718c7a38fcaca8d096c92e7beff01d6174e89aa3be533bab87",
+  "sample_size_bytes": 114358,
+  "total_records": 263
 }

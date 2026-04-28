@@ -1,6 +1,6 @@
 # All Restaurants in Fort Collins, Colorado, US
 
-> Free BeamStation sample export with 26 rows and masked direct-contact fields.
+> Free BeamStation sample export with 45 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `701970` |
 | Location | Fort Collins |
 | Category | Restaurants |
-| Full dataset size | 263 records |
-| Free sample size | 26 records (9.89%) |
-| Last export | 2026-04-21T10:20:38.766725+00:00 |
+| Full dataset size | 452 records |
+| Free sample size | 45 records (9.96%) |
+| Last export | 2026-04-28T10:44:15.432889+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-fort-collins-colorado-us-sample-701970/releases/download/sample-latest/beamstation_701970_restaurants-us-co_SAMPLE_DIST.csv) |
 
 ## What is in this sample
